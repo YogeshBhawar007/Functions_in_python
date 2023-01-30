@@ -4,7 +4,8 @@ Function: it a unit which is used to combine an operations with a
 specific purpose
 so we can declare it ones and call it multiple times
 -----------------------
-Traditional approach of a programming
+
+Simple Python example for +ve and -ve numbers
 
 num = -10
 if num>0:
